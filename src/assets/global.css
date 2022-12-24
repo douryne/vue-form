@@ -1,0 +1,11 @@
+:root {
+    --default-font: 300 16px/19px 'Inter';
+    --default-font-color: #000000;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    background-color: #F5F5F5;
+}
